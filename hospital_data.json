@@ -1,0 +1,12 @@
+[
+  {
+    "uhid": "UHID987654321",
+    "age": "21",
+    "gender": "Female",
+    "diagnosis": "Type 2 Diabetes",
+    "treatment": "insulin",
+    "doctorId": "DR54321",
+    "hospitalId": "HOSP1122",
+    "timestamp": "2025-04-11T10:45:11.035Z"
+  }
+]
